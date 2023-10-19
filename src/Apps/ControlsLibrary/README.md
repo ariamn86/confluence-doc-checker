@@ -16,7 +16,7 @@ This extension is an attempt to provide samples to other users to help them writ
 * <a href="#multivalue">Autocomplete Multivalue Control</a>
 * <a href="#plaintext">Plain Text Control</a>
 
-The code for this extension is on <a href="https://github.com/mohitbagra/vsts-extensions/tree/master/src/ControlsLibrary">github</a>
+The code for this extension is on <a href="https://github.com/ariamn86/azure-extensions/tree/master/src/Apps/ControlsLibrary">github</a>
 
 <a name="datetime"></a>
 #### DateTime Control ####

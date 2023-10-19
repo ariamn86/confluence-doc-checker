@@ -1,4 +1,4 @@
-This repo holds all my VSTS extensions. 
+This repo was originally forked from "https://github.com/mohitbagra/vsts-extensions" and has several azure extensions.  
 
 * Bug Bash Pro
 * Checklist
